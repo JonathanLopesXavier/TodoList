@@ -6,7 +6,7 @@ Projeto para adcionar tarefas a uma lista e marcar como feitas
 Site de receitas com uma tela inicial de login com botão de cadastro, lista com receitas e possibilidade de adicionar quantas desejar
 
 ## Como acessar o projeto
-<a href="https://smoggy-opinion.surge.sh/">To Do List</a>
+<a href="https://shallow-bottle.surge.sh/">To Do List</a>
 
 ## Tecnologias utilizadas
 
