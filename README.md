@@ -1,6 +1,6 @@
 # To Do List
 
-Projeto para adcionar tarefas a uma lista e marcar como feitas
+Projeto para adicionar tarefas a uma lista e marcar como feitas
 
 ## Descrição do projeto
 Site de receitas com uma tela inicial de login com botão de cadastro, lista com receitas e possibilidade de adicionar quantas desejar
