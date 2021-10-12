@@ -1,9 +1,9 @@
 # To Do List
 
-Projeto para adicionar tarefas a uma lista e marcar como feitas
+Projeto para adicionar tarefas
 
 ## Descrição do projeto
-Site de receitas com uma tela inicial de login com botão de cadastro, lista com receitas e possibilidade de adicionar quantas desejar
+Site para inserir tarefas, marcar como feitas ou não feitas
 
 ## Como acessar o projeto
 <a href="https://shallow-bottle.surge.sh/">To Do List</a>
